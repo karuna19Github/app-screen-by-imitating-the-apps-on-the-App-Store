@@ -12,7 +12,7 @@
 我模仿 App 畫面 Blockudoku .
 Blockudoku 是一款以原創方式結合數獨和積木拼圖，簡單但仍具有挑戰性的益智遊戲。
 
- VStack {
+         VStack {
                 HStack (spacing:20) // 以下 HStack 容納的元件之間原本間距都是 20。
                 {
                     Image("1")
