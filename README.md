@@ -4,12 +4,14 @@
 
 ![Screenshot_20220921-164057_Blockudoku](https://user-images.githubusercontent.com/102145197/192737010-52b7986f-a43d-46b9-b1f9-ab3ddcb4e2d9.jpg)
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-09-28 at 17 05 21](https://user-images.githubusercontent.com/102145197/192738202-0965c7c8-5da5-4597-b579-9a6e9a9bcf86.png)
+![Blockudoku](https://user-images.githubusercontent.com/102145197/192755250-7ec632d5-f751-4e62-a591-f319bda33138.png)
 
-我模仿 App 畫面 Blockudoku 
+
+
+
+我模仿 App 畫面 Blockudoku .
 Blockudoku 是一款以原創方式結合數獨和積木拼圖，簡單但仍具有挑戰性的益智遊戲。
 
-利用
  VStack {
                 HStack (spacing:20) // 以下 HStack 容納的元件之間原本間距都是 20。
                 {
